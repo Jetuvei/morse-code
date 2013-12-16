@@ -1,0 +1,9 @@
+A (info)	· —	J (info)	· — — —	S (info)	· · ·	1 (info)	· — — — —	Period [.]	· — · — · —	Colon [:]	— — — · · ·
+B (info)	— · · ·	K (info)	— · —	T (info)	—	2 (info)	· · — — —	Comma [,]	— — · · — —	Semicolon [;]	— · — · — ·
+C (info)	— · — ·	L (info)	· — · ·	U (info)	· · —	3 (info)	· · · — —	Question mark [?]	· · — — · ·	Double dash [=]	— · · · —
+D (info)	— · ·	M (info)	— —	V (info)	· · · —	4 (info)	· · · · —	Apostrophe [']	· — — — — ·	Plus [+]	· — · — ·
+E (info)	·	N (info)	— ·	W (info)	· — —	5 (info)	· · · · ·	Exclamation mark [!]	— · — · — —	Hyphen, Minus [-]	— · · · · —
+F (info)	· · — ·	O (info)	— — —	X (info)	— · · —	6 (info)	— · · · ·	Slash [/], Fraction bar	— · · — ·	Underscore [_]	· · — — · —
+G (info)	— — ·	P (info)	· — — ·	Y (info)	— · — —	7 (info)	— — · · ·	Parenthesis open [(]	— · — — ·	Quotation mark ["]	· — · · — ·
+H (info)	· · · ·	Q (info)	— — · —	Z (info)	— — · ·	8 (info)	— — — · ·	Parenthesis closed [)]	— · — — · —	Dollar sign [$]	· · · — · · —
+I (info)	· ·	R (info)	· — ·	0 (info)	— — — — —	9 (info)	— — — — ·	Ampersand [&], Wait	· — · · ·	At sign [@]	· — — · — ·
